@@ -1,0 +1,3 @@
+-unzip both the dataset files to run
+-code is in notebook as .ibynb
+-run image processing and then model file 
